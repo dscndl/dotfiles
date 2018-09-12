@@ -1,3 +1,6 @@
 *
 !.gitignore
 !.bashrc
+!.config/nvim/init.vim
+!.config/nvim/info_instalacion_vundle.txt
+
